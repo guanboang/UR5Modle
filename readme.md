@@ -52,6 +52,12 @@ This document provides a description of the Blender and FBX files for the UR5 Ro
 
 ## File Breakdown
 
+## ADD UP STEP TO STEP SORCE
+
+### UR5 Robotic Arm Reconfiguration-1-Origin Modification
+### UR5 Robotic Arm Reconstruction-2-Bone Drawing
+### UR5 Robotic Arm Reconstruction-3-Skeletal Binding
+### UR5 Robotic Arm Reconfiguration-4-Create IK
 ### 1. UR5.blend
 
 This file serves as the base file for setting up the skeleton. It contains the UR5 model, but the skeleton is not bound to any parts, and no IK is implemented.
